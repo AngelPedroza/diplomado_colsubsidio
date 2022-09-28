@@ -1,0 +1,19 @@
+/* Carousel */
+.carrusel {
+    width:100%;
+    height:80vh;
+  }
+
+.carousel-inner > .carousel-item > img {
+  height:80vh;
+}
+
+/* Cards */
+.show-col {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+
+#myDIV{
+  display: block;
+}
